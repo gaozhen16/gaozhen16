@@ -1,4 +1,14 @@
-### Hi there 👋
+# 📁 Profile
+
+Zhen Gao (Member, IEEE) received the B.S. degree in information engineering from the Beijing Institute of Technology, Beijing, China, in July 2011, and the Ph.D. degree in communication and signal processing from the Tsinghua National Laboratory for Information Science and Technology, Department of Electronic Engineering, Tsinghua University, China, in July 2016. 
+
+He was a visiting student at Communications and Signal Processing Group, Imperial College London, U.K. from 2014 to 2015, and he is currently an Associate Professor with the Advanced Research Institute of Multidisciplinary Science (ARIMS) and the School of Information and Electronics, Beijing Institute of Technology, Beijing, China.
+
+His research interests are in wireless communications, with a focus on multicarrier modulations, multiple antenna systems, and sparse signal processing. He was a recipient of the IEEE Broadcast Technology Society, in 2016, the Scott Helt Memorial Award (Best Paper) and IET Electronics Letters Premium Award (Best Paper), in 2016, the Exemplary Reviewer of the IEEE Communications Letters, in 2016, the Academic Star of Tsinghua University, in 2016, and the Young Elite Scientists Sponsorship Program from the China Association for Science and Technology, from 2018 to 2021. He currently serves as an Associate Editor for IEEE Access and IEEE Communications Letters.
+
+For more information about our research, please kindly refer to our [homepage](https://gaozhen16.github.io/).
+
+
 
 <!--
 **gaozhen16/gaozhen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
